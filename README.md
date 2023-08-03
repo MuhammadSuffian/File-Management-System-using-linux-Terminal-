@@ -11,7 +11,6 @@ To run the program, ensure that you have the gcc compiler installed on your Linu
 Once the compilation is successful, you can run the program by entering the following command in the terminal:
 <br>
 <h3>./file_manager</h3>
-<br>
 <h2>Features/Functionality </h2>                                                                                                
 1- List all Files and Directories<br>
 2- Create New Files<br>
