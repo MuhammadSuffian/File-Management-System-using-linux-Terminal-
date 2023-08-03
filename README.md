@@ -5,7 +5,7 @@ The program offers a comprehensive menu-driven interface that allows users to in
 By incorporating shell scripting within the C program, it harnesses the power of Linux terminal commands to achieve optimal performance and flexibility. This integration allows for seamless execution of complex file management tasks, providing a convenient and efficient solution for users.
 <br><br>
 To run the program, ensure that you have the gcc compiler installed on your Linux system. Open the terminal, navigate to the directory containing the source code file, and use the following command to compile the program:
-<br><br>
+<br>
 <h3>gcc file_manager.c -o file_manager</h3>
 <br>
 Once the compilation is successful, you can run the program by entering the following command in the terminal:
