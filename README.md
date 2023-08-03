@@ -7,11 +7,11 @@ By incorporating shell scripting within the C program, it harnesses the power of
 To run the program, ensure that you have the gcc compiler installed on your Linux system. Open the terminal, navigate to the directory containing the source code file, and use the following command to compile the program:
 <br><br>
 <h3>gcc file_manager.c -o file_manager</h3>
-<br><br>
+<br>
 Once the compilation is successful, you can run the program by entering the following command in the terminal:
-<br><br>
+<br>
 <h3>./file_manager</h3>
-<br><br>
+<br>
 <h2>Features/Functionality </h2>                                                                                                
 1- List all Files and Directories<br>
 2- Create New Files<br>
